@@ -23,10 +23,10 @@
     "height": 768,
     "width": 1024,
     "x": -207,
-    "y": -362
+    "y": 522
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,40 +46,60 @@
       "id": "B090C50C-1BE4-438D-8D89-30771455F830"
     },
     {
+      "class": "shapeGroup",
+      "id": "E0B5E043-05A0-4DB4-81D3-62CE2A7BF4A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07B7492C-6CC6-47C0-A398-049C780FDB40"
+    },
+    {
+      "class": "group",
+      "id": "059AB12B-C4C4-47DE-A58C-8A9B1680878D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73EF6EB2-3C4F-456C-994E-717DCB8E4F2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "286E5DAC-47C2-4300-874E-047FD4669543"
+    },
+    {
       "class": "symbolInstance",
       "id": "47D9A438-DC86-4008-9595-E6471406A017"
     },
     {
       "class": "shapeGroup",
-      "id": "B40A089D-2F0F-4578-B778-27ABA9FC9D0E"
+      "id": "D876243B-4861-4732-8B47-7E726717F9D0"
     },
     {
       "class": "symbolInstance",
-      "id": "C62AF186-5FF5-47B2-9D09-10CEF985F61E"
+      "id": "F2042982-AE57-4ADD-94D0-FAFE6053643A"
     },
     {
       "class": "symbolInstance",
-      "id": "6A54CC7C-1524-4700-8A30-FC662BA2863E"
+      "id": "E74B011C-5589-42A1-B9C1-C840CB7BB769"
     },
     {
       "class": "symbolInstance",
-      "id": "CF638D4D-D4B5-4117-B7C2-80A6B4BC611A"
+      "id": "8A300185-AEB5-4780-94B9-0A01A83DE57D"
     },
     {
       "class": "symbolInstance",
-      "id": "91962113-323C-4277-971B-538E1E9CB0EB"
-    },
-    {
-      "class": "text",
-      "id": "4A8761F3-ABEC-4662-95A8-5BC5A992340A"
+      "id": "E3A430C8-107F-40F7-8DEA-8D131F041D18"
     },
     {
       "class": "symbolInstance",
-      "id": "CBDEA54E-3DE1-4FB6-B012-0E189E82E098"
+      "id": "00051D3B-BE3A-41CB-B127-3709A5FB80DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA8C5CE1-ECB5-4A0C-A719-7427B5CE664B"
     }
   ],
-  "name": "iPad",
-  "nameIsFixed": false,
+  "name": "Personalised List (selected activity)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

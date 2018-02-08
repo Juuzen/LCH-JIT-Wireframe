@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 170,
-    "x": 103,
-    "y": 16
+    "width": 90,
+    "x": 57,
+    "y": 17
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -35,11 +35,11 @@
       "_class": "overrideValue",
       "do_objectID": "0BAD0C41-0850-44CE-81C1-08E2160AFCEE",
       "overrideName": "D18DB6BB-00F7-4486-9289-699BE316664D_stringValue",
-      "value": "       Esercizio "
+      "value": "Activity"
     }
   ],
   "overrides": {
-    "D18DB6BB-00F7-4486-9289-699BE316664D": "       Esercizio "
+    "D18DB6BB-00F7-4486-9289-699BE316664D": "Activity"
   },
   "resizingConstraint": 17,
   "resizingType": 2,
