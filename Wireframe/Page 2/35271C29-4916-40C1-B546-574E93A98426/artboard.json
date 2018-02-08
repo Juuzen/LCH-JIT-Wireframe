@@ -26,7 +26,7 @@
     "y": 2559
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,28 +39,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "FEB30B1D-01BC-4EFC-A00F-650317C28B79"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93F2527C-9233-454F-8896-F31DBF16FA5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6365467A-EFD5-40E5-AF5D-71676C4F48F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8C0654BF-06F0-4999-8EBD-A3B4B612CB41"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "70991892-247A-4611-8413-C3AAF5D9E7F1"
-    },
     {
       "class": "symbolInstance",
       "id": "088A0B2A-DAA2-4F14-82E6-BFED4BCB01BC"
@@ -72,6 +52,18 @@
     {
       "class": "symbolInstance",
       "id": "E75BA456-84B1-4A96-AC35-F15CD4472E58"
+    },
+    {
+      "class": "group",
+      "id": "C7E8225C-A0DD-4D2F-B150-569FFE2F027A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "031C18D0-F552-4CE5-A41B-4375F99B2C95"
+    },
+    {
+      "class": "group",
+      "id": "FDFCFDAA-B81E-484D-B176-E4F9E8A5ABA4"
     }
   ],
   "name": "Lista per Bambino X (Percorso)",
