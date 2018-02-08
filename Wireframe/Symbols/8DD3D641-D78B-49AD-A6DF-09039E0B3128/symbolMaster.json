@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1054,
+  "changeIdentifier": 1055,
   "do_objectID": "8DD3D641-D78B-49AD-A6DF-09039E0B3128",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "CAAFC015-4063-439D-85B6-F72B2AFCC3A5"
     }
   ],
-  "name": "Category Selector (Big)",
+  "name": "Activity Card (Big)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
