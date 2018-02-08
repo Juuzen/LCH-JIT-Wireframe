@@ -26,7 +26,7 @@
     "y": 1691
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,28 +39,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5276E0BC-87AB-4323-A63C-7178DBCBD024"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "24F85B00-68FC-423C-AFC4-633A72EC8D16"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "20046697-13C7-43B5-847F-0A615EA166ED"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "32C66425-BFC4-4CFA-92E5-E9AFA79E8FDA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0A1002E1-9BF5-4CF4-AB26-77ED7FFD1C56"
-    },
     {
       "class": "symbolInstance",
       "id": "6CFEA025-7BA6-4666-9DBA-9A385A757CF4"
@@ -72,6 +52,14 @@
     {
       "class": "symbolInstance",
       "id": "02C6BE96-5EF1-4DFB-87AA-C8B424B24C6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AC6FDF7-EFC1-41DE-A26C-C0703B905F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F526CF3-82A2-4291-A63E-AD5096A31F96"
     }
   ],
   "name": "Lista per Bambino X (Carte Grandi)",
