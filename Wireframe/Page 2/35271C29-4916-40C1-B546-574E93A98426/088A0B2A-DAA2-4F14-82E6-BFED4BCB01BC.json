@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "031C18D0-F552-4CE5-A41B-4375F99B2C95",
+  "do_objectID": "088A0B2A-DAA2-4F14-82E6-BFED4BCB01BC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +13,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 210,
-    "width": 300,
-    "x": 362,
-    "y": 113
+    "height": 280,
+    "width": 400,
+    "x": 943,
+    "y": 424
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 16,
   "masterInfluenceEdgeMaxYPadding": 26,
   "masterInfluenceEdgeMinXPadding": 16,
   "masterInfluenceEdgeMinYPadding": 6,
-  "name": "Activity Card (Little)",
+  "name": "Card Selector",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "473014F4-DF32-403A-A192-BAA0ED9771D9",
+  "symbolID": "BF80E541-DFE3-44B9-9559-8D630EAA9DB2",
   "verticalSpacing": 0
 }
