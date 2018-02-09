@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1204,
+  "changeIdentifier": 1205,
   "do_objectID": "89B5ECAE-1C0D-4C94-867F-AE3D17DF56CE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,7 +64,7 @@
       "id": "E84ADC0B-38FF-4593-982D-0389EA93A9F1"
     }
   ],
-  "name": "Cells/Application/Messages Cell",
+  "name": "Create List / Main Settings / Unselected",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -34,38 +34,45 @@
     {
       "_class": "overrideValue",
       "overrideName": "2FBD6796-83A2-419E-939B-853A9C9C6AE6/068E40E7-A5C5-4966-9AD8-8A8588490D9D_stringValue",
-      "value": "App Name"
+      "value": "Attività per bambino Y"
     },
     {
       "_class": "overrideValue",
       "overrideName": "089467B9-7418-4992-9DE9-9DFB8A5EE049/07EB8F28-5C3B-4EA8-9E37-805FB5A89203_symbolID",
-      "value": "78A95C11-A0CF-4781-AA63-FE7B23C80AFC"
+      "value": ""
     },
     {
       "_class": "overrideValue",
       "overrideName": "089467B9-7418-4992-9DE9-9DFB8A5EE049/D5A4B6C5-3F11-441D-AF57-A843FBCD1BA9_symbolID",
-      "value": "AF8BF5A0-27AC-4557-8940-D97AB062229D"
+      "value": ""
     },
     {
       "_class": "overrideValue",
       "overrideName": "AA44E67D-8EF7-4DCD-B87B-227AF90C9696_symbolID",
-      "value": ""
+      "value": "F04D6357-A37A-45D6-A7F1-ECAE52FBE02B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F1A34A0-414D-496C-8A00-255653450682",
+      "overrideName": "AA44E67D-8EF7-4DCD-B87B-227AF90C9696/E239733A-C97F-4235-8F1D-E2976338B9E8_stringValue",
+      "value": "Liste"
     }
   ],
   "overrides": {
     "089467B9-7418-4992-9DE9-9DFB8A5EE049": {
       "07EB8F28-5C3B-4EA8-9E37-805FB5A89203": {
-        "symbolID": "78A95C11-A0CF-4781-AA63-FE7B23C80AFC"
+        "symbolID": ""
       },
       "D5A4B6C5-3F11-441D-AF57-A843FBCD1BA9": {
-        "symbolID": "AF8BF5A0-27AC-4557-8940-D97AB062229D"
+        "symbolID": ""
       }
     },
     "2FBD6796-83A2-419E-939B-853A9C9C6AE6": {
-      "068E40E7-A5C5-4966-9AD8-8A8588490D9D": "App Name"
+      "068E40E7-A5C5-4966-9AD8-8A8588490D9D": "Attività per bambino Y"
     },
     "AA44E67D-8EF7-4DCD-B87B-227AF90C9696": {
-      "symbolID": ""
+      "E239733A-C97F-4235-8F1D-E2976338B9E8": "Liste",
+      "symbolID": "F04D6357-A37A-45D6-A7F1-ECAE52FBE02B"
     }
   },
   "resizingConstraint": 63,

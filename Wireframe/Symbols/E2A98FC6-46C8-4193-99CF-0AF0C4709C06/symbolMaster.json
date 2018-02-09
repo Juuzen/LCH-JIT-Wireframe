@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2508,
+  "changeIdentifier": 2509,
   "do_objectID": "E2A98FC6-46C8-4193-99CF-0AF0C4709C06",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,7 +64,7 @@
       "id": "0FE6C8CB-D5FE-49EC-868D-EE67B9CB4407"
     }
   ],
-  "name": "Cells/Table/Cell",
+  "name": "Create List / Selected Activity / Unselected",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

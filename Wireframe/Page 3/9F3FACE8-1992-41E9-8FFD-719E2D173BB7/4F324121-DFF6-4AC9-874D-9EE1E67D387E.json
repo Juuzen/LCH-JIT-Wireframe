@@ -24,15 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Settings Long",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "165E531E-C9AA-4A43-8510-7CF100C5AE05",
+      "overrideName": "35A8733C-F802-4A6C-BB40-FB4830401B94_symbolID",
+      "value": "3A60645C-9289-462D-8080-AFF9B79CDAC1"
+    }
   ],
   "overrides": {
+    "35A8733C-F802-4A6C-BB40-FB4830401B94": {
+      "symbolID": "3A60645C-9289-462D-8080-AFF9B79CDAC1"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
