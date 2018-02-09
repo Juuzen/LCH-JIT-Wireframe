@@ -30,12 +30,12 @@
       "id": "3B82AE56-2B1B-4D2F-954A-67C56BBAFDF8"
     },
     {
-      "class": "group",
-      "id": "C560C163-B8B1-45F6-B24B-0EA08CEBEEFC"
+      "class": "shapeGroup",
+      "id": "6AA80B90-02D6-4DE7-AB97-477AEF668A6F"
     },
     {
       "class": "group",
-      "id": "A88C4749-0251-48DD-AF08-DBD810D7DE72"
+      "id": "1136623F-64CE-435D-BD59-6AB5108A595A"
     },
     {
       "class": "group",
@@ -43,7 +43,11 @@
     },
     {
       "class": "group",
-      "id": "1136623F-64CE-435D-BD59-6AB5108A595A"
+      "id": "A88C4749-0251-48DD-AF08-DBD810D7DE72"
+    },
+    {
+      "class": "group",
+      "id": "C560C163-B8B1-45F6-B24B-0EA08CEBEEFC"
     },
     {
       "class": "group",
