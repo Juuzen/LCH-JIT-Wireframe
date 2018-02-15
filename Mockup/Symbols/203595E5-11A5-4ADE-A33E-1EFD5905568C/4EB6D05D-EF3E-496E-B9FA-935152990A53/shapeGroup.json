@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "128E722D-E0B0-4704-86B5-761779D24F64",
+  "do_objectID": "4EB6D05D-EF3E-496E-B9FA-935152990A53",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 18,
-    "width": 18,
-    "x": 11,
-    "y": 11
+    "constrainProportions": false,
+    "height": 38,
+    "width": 38,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,58 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
-      "id": "1929C6A0-FBA2-414F-B02B-C397BA8D7FF1"
+      "id": "61A7D8F1-7164-40A7-AB5A-866B423ADED7"
+    },
+    {
+      "class": "oval",
+      "id": "D2E37B34-AE98-4681-90C3-41074184F17D"
+    },
+    {
+      "class": "oval",
+      "id": "716125E8-898E-4282-A7DA-2B9FAEC7BA2A"
+    },
+    {
+      "class": "oval",
+      "id": "F4019DAF-D167-4B59-AE9C-5A3DC4A251F3"
+    },
+    {
+      "class": "oval",
+      "id": "08F4E699-9ED9-42A7-822D-1B643883850F"
+    },
+    {
+      "class": "oval",
+      "id": "0F6C35B1-B7D4-44E9-AF15-E4DA37394D47"
+    },
+    {
+      "class": "oval",
+      "id": "23A6D954-E8C4-4ECD-BBBA-C823E60B6894"
+    },
+    {
+      "class": "oval",
+      "id": "842AAFFA-0733-4016-A830-75616660D601"
+    },
+    {
+      "class": "oval",
+      "id": "1349A06E-C71F-4AE6-81AD-DFE2882E1106"
+    },
+    {
+      "class": "oval",
+      "id": "07AFAB86-732A-474E-8E51-929163F6DE23"
+    },
+    {
+      "class": "oval",
+      "id": "21A5D3C1-36A3-41ED-AF87-07C65DC6DC70"
+    },
+    {
+      "class": "oval",
+      "id": "F5C82EEC-B7E4-484D-94D0-30116F90D5DE"
     }
   ],
-  "name": "Oval 6",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,22 +84,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,8 +91,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.8468070652173914,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "fillType": 0,
@@ -79,13 +107,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 2,
+        "blurRadius": 4,
         "color": {
           "_class": "color",
           "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3462959561635971,
+          "green": 0.3462959561635971,
+          "red": 0.3498086734693878
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

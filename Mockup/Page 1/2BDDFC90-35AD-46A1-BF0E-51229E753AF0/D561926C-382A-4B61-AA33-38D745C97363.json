@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 77,
   "masterInfluenceEdgeMaxYPadding": 15,
   "masterInfluenceEdgeMinXPadding": 13,
-  "masterInfluenceEdgeMinYPadding": 9,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Game Background / Sun",
   "nameIsFixed": false,
   "overrideValues": [

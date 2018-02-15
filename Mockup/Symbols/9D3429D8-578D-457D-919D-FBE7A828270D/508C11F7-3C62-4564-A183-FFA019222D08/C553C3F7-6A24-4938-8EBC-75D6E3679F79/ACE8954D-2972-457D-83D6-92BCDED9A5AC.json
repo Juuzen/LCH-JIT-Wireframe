@@ -28,11 +28,20 @@
   "masterInfluenceEdgeMaxYPadding": 3,
   "masterInfluenceEdgeMinXPadding": 3,
   "masterInfluenceEdgeMinYPadding": 3,
-  "name": "Fiore / Bianco",
-  "nameIsFixed": false,
+  "name": "Fiore",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83F46EED-76F9-47C4-A1B9-3F336E757AFA",
+      "overrideName": "F41DA982-88AD-44FC-8993-3B7485BDD52D_symbolID",
+      "value": "E742361D-D663-4356-BCB9-4EF72A6BDE9E"
+    }
   ],
   "overrides": {
+    "F41DA982-88AD-44FC-8993-3B7485BDD52D": {
+      "symbolID": "E742361D-D663-4356-BCB9-4EF72A6BDE9E"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,6 +54,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F4295BFC-C6B8-4DB8-A5D4-ECEE6300BE23",
+  "symbolID": "CDEB5296-23DE-4048-BA71-81F3B12DEB1E",
   "verticalSpacing": 0
 }

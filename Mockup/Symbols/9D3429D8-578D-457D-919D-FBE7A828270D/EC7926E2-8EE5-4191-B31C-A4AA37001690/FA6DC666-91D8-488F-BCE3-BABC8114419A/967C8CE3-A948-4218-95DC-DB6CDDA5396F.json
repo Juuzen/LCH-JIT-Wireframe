@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 3,
   "masterInfluenceEdgeMinXPadding": 3,
   "masterInfluenceEdgeMinYPadding": 3,
-  "name": "Fiore / Bianco",
-  "nameIsFixed": false,
+  "name": "Fiore",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3626AB21-FB96-4D29-BC7B-7C7F15D31661",
+  "symbolID": "CDEB5296-23DE-4048-BA71-81F3B12DEB1E",
   "verticalSpacing": 0
 }

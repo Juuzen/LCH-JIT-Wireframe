@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4EB6D05D-EF3E-496E-B9FA-935152990A53",
+  "do_objectID": "BCC0AF8D-4990-4543-9275-26226164FB32",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 38,
     "width": 38,
-    "x": 1,
-    "y": 1
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,51 +29,51 @@
   "layers": [
     {
       "class": "oval",
-      "id": "61A7D8F1-7164-40A7-AB5A-866B423ADED7"
+      "id": "B8032A94-7034-4C5E-A101-7E3B1BFAF6BB"
     },
     {
       "class": "oval",
-      "id": "D2E37B34-AE98-4681-90C3-41074184F17D"
+      "id": "C21D8D8C-2B62-46E6-8329-8C1127F0FCB0"
     },
     {
       "class": "oval",
-      "id": "716125E8-898E-4282-A7DA-2B9FAEC7BA2A"
+      "id": "D14F735D-3193-494E-9584-389B06B6748C"
     },
     {
       "class": "oval",
-      "id": "F4019DAF-D167-4B59-AE9C-5A3DC4A251F3"
+      "id": "8EAA3A78-BD13-4F5D-94C5-5E72CD33E90E"
     },
     {
       "class": "oval",
-      "id": "08F4E699-9ED9-42A7-822D-1B643883850F"
+      "id": "7AB68081-859A-4A61-BD0D-15CF7D7AFC1E"
     },
     {
       "class": "oval",
-      "id": "0F6C35B1-B7D4-44E9-AF15-E4DA37394D47"
+      "id": "353B32B8-8BDE-43C7-B7C0-A1A58FA610CF"
     },
     {
       "class": "oval",
-      "id": "23A6D954-E8C4-4ECD-BBBA-C823E60B6894"
+      "id": "280EF1D0-B57C-40E6-B158-12F5FDDA6CF5"
     },
     {
       "class": "oval",
-      "id": "842AAFFA-0733-4016-A830-75616660D601"
+      "id": "E2E6E1C9-8B05-4F49-AC45-CF7115B41CE5"
     },
     {
       "class": "oval",
-      "id": "1349A06E-C71F-4AE6-81AD-DFE2882E1106"
+      "id": "3014C681-A468-4C66-AA24-0D19CD6C123B"
     },
     {
       "class": "oval",
-      "id": "07AFAB86-732A-474E-8E51-929163F6DE23"
+      "id": "0AA5A290-DD9F-47A4-B717-29F9451189C5"
     },
     {
       "class": "oval",
-      "id": "21A5D3C1-36A3-41ED-AF87-07C65DC6DC70"
+      "id": "0F25818F-3769-49BA-9747-98020B36299E"
     },
     {
       "class": "oval",
-      "id": "F5C82EEC-B7E4-484D-94D0-30116F90D5DE"
+      "id": "F3FBC41C-821A-4BC1-B13E-FA3BE45184F1"
     }
   ],
   "name": "Combined Shape",
@@ -92,8 +92,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 1,
-          "red": 1
+          "green": 0.2035392992424242,
+          "red": 0.5943298842438912
         },
         "fillType": 0,
         "isEnabled": true,
