@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 1672,
-    "y": 243
+    "x": 503,
+    "y": -119
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -47,15 +47,19 @@
     },
     {
       "class": "group",
-      "id": "000506A7-5B65-4E51-BDCC-B1FFF2C6A25D"
+      "id": "36B97FF2-9440-49D0-8236-4F6B21C1338A"
     },
     {
       "class": "group",
-      "id": "FDB299EE-E86F-428E-AD74-E997B5F1173A"
+      "id": "195F0391-D389-4091-9BFA-B4FC1BA98366"
     },
     {
-      "class": "group",
-      "id": "066977B6-9531-481F-8D73-E361EEF55641"
+      "class": "symbolInstance",
+      "id": "B9484BF2-7B75-4936-BBCA-08DF82451C89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "712558DC-2948-4FEB-80BD-A6282CCD0FC0"
     }
   ],
   "name": "Generatore non parole / Schermata principale",
