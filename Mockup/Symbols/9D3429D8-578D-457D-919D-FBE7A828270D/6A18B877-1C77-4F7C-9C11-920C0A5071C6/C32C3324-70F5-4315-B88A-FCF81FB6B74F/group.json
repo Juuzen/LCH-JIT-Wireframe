@@ -26,28 +26,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "690E398A-A404-4963-9D4F-F0772CD5D235"
+      "class": "symbolInstance",
+      "id": "653599E7-68AA-4F72-ABFA-1D57372E2AA6"
     },
     {
       "class": "symbolInstance",
       "id": "A0D3281D-7320-4BF9-B850-66E33CF05309"
     },
     {
-      "class": "shapeGroup",
-      "id": "416E18ED-8931-4B2A-B0A2-BFF2EBCE86C0"
+      "class": "symbolInstance",
+      "id": "93D11745-C912-4250-950A-5AE1A4942C92"
     },
     {
-      "class": "shapeGroup",
-      "id": "13FF9290-DA57-47FF-97E0-D39ED502B35C"
+      "class": "symbolInstance",
+      "id": "0E37A8E7-9581-46F5-97B0-0083195649E4"
     },
     {
-      "class": "shapeGroup",
-      "id": "DB9620EF-A5C3-4948-A52C-8E584F8CB210"
+      "class": "symbolInstance",
+      "id": "E176A7E0-4E52-4B32-9B36-5F55AE8E7A27"
     },
     {
-      "class": "shapeGroup",
-      "id": "8441135F-E93E-4BC2-A172-C6875337C99D"
+      "class": "symbolInstance",
+      "id": "20F1307F-73D7-4F76-A3B8-0FB560D1733C"
     }
   ],
   "name": "Cielo",
