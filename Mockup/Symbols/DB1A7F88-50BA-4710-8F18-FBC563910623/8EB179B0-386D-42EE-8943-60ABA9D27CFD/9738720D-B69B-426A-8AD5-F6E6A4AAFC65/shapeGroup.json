@@ -47,43 +47,6 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09795217803030298,
-          "green": 0.8847928053462616,
-          "red": 1
-        },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/872f1ce9f26fd9fcad41eaf11351fbddb02eb763",
-          "_ref_class": "MSImageData"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 0.1
-      },
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.8426460597826086,
-          "blue": 0,
-          "green": 0.8722826086956522,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      },
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.295120018115942,
           "blue": 0,
           "green": 0.8722826086956522,
           "red": 1

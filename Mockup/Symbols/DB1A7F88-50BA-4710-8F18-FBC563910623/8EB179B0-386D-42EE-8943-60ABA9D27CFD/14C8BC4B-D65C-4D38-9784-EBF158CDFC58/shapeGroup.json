@@ -47,27 +47,6 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2705882352941176,
-          "green": 0.5764705882352941,
-          "red": 0.9764705882352941
-        },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/554d3e994509dfa2bf03ceb36da6c463ef937d93",
-          "_ref_class": "MSImageData"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 0.1004963306819691
-      },
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.7194859601449275,
           "blue": 0.2705882352941175,
           "green": 0.5764705882352941,
           "red": 0.9764705882352941

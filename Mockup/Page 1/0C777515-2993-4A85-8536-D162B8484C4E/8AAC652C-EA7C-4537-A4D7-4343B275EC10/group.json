@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8AAC652C-EA7C-4537-A4D7-4343B275EC10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 736,
+    "width": 993,
+    "x": 15,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7622F26A-B59F-476E-AD34-EFB643DA7E01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FD18BE3-AE58-46BA-BD00-835CEF13A8E0"
+    },
+    {
+      "class": "group",
+      "id": "E6822C1D-B3A0-4245-B85C-AEBF9919B869"
+    }
+  ],
+  "name": "Floating Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

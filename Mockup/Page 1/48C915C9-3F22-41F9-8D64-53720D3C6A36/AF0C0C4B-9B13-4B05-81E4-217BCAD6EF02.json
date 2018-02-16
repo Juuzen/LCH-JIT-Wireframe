@@ -42,10 +42,25 @@
       "do_objectID": "83B249F5-A96A-4CBA-B050-FDB06B8785A7",
       "overrideName": "083A5E9B-D7F2-47EA-B583-51314E802C3C_stringValue",
       "value": "Parole casuali basate su specifici fonemi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53A6E06D-A493-401B-B601-7F926DC034F7",
+      "overrideName": "72E83BB7-1884-41B3-8089-23D132D58C52_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a54ec5dea490975c545e8c821f82aee3fd2e8f8",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "overrides": {
     "083A5E9B-D7F2-47EA-B583-51314E802C3C": "Parole casuali basate su specifici fonemi",
+    "72E83BB7-1884-41B3-8089-23D132D58C52": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/6a54ec5dea490975c545e8c821f82aee3fd2e8f8",
+      "_ref_class": "MSImageData"
+    },
     "F070378A-3072-4049-ADD0-BB83C2D57313": "Generatore non-parole"
   },
   "resizingConstraint": 63,

@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 5968,
-    "y": 243
+    "x": 3725,
+    "y": -119
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,12 +50,12 @@
       "id": "4D045C6E-67D3-4D9F-8CBE-96368D9C8873"
     },
     {
-      "class": "group",
-      "id": "85B23656-1BF5-4DAF-BD40-23AD40BB6D9F"
+      "class": "symbolInstance",
+      "id": "AD44748B-6EA4-4142-A355-633242BC2B5A"
     },
     {
-      "class": "group",
-      "id": "AE7C788E-7BE6-4323-A600-34B188C67459"
+      "class": "symbolInstance",
+      "id": "189421C7-6791-4526-AD89-16EA0E2E8CC7"
     },
     {
       "class": "shapeGroup",

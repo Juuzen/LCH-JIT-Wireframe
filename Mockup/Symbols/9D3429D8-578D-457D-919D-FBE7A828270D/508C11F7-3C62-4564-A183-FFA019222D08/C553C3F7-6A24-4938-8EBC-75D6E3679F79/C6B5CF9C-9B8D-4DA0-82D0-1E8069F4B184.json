@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C6B5CF9C-9B8D-4DA0-82D0-1E8069F4B184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 100
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 3,
+  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "Fiore 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0BD2843-FAD0-45F5-8D8C-FD19E9184310",
+      "overrideName": "F41DA982-88AD-44FC-8993-3B7485BDD52D_symbolID",
+      "value": "7EF32F43-DC44-4C9E-9F17-E42EDEAF596B"
+    }
+  ],
+  "overrides": {
+    "F41DA982-88AD-44FC-8993-3B7485BDD52D": {
+      "symbolID": "7EF32F43-DC44-4C9E-9F17-E42EDEAF596B"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CDEB5296-23DE-4048-BA71-81F3B12DEB1E",
+  "verticalSpacing": 0
+}
