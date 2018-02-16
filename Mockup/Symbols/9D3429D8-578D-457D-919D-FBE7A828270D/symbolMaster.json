@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 122090,
+  "changeIdentifier": 121627,
   "do_objectID": "9D3429D8-578D-457D-919D-FBE7A828270D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,23 +50,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1C4100B3-52D1-4EAF-B080-FFB77F5AE9C2"
-    },
-    {
       "class": "group",
-      "id": "EC7926E2-8EE5-4191-B31C-A4AA37001690"
-    },
-    {
-      "class": "group",
-      "id": "508C11F7-3C62-4564-A183-FFA019222D08"
-    },
-    {
-      "class": "group",
-      "id": "C32C3324-70F5-4315-B88A-FCF81FB6B74F"
+      "id": "6A18B877-1C77-4F7C-9C11-920C0A5071C6"
     }
   ],
   "name": "Game Background / Sun",

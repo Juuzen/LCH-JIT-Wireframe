@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6974,
+  "changeIdentifier": 6950,
   "do_objectID": "11230123-7C90-4642-99A8-CC08C53EB3F4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,15 +44,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F41DA982-88AD-44FC-8993-3B7485BDD52D"
+      "class": "shapeGroup",
+      "id": "4EB6D05D-EF3E-496E-B9FA-935152990A53"
     },
     {
       "class": "shapeGroup",
       "id": "3488C7C0-24B2-4D38-80EC-52DD76A21258"
     }
   ],
-  "name": "Fiore",
+  "name": "Fiore / Bianco",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

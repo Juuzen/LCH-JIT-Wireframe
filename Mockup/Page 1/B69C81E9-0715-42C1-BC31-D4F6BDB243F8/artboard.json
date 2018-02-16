@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 503,
-    "y": -119
+    "x": 2746,
+    "y": 243
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -54,12 +54,12 @@
       "id": "7B1A0A8C-8014-42FA-B51E-CBDD96CBB8C5"
     },
     {
-      "class": "symbolInstance",
-      "id": "A86EF5CC-1ABF-4D90-A3AF-651DEF9B2446"
+      "class": "group",
+      "id": "FAD18494-8911-4429-BC14-00C39B1ADB11"
     },
     {
-      "class": "symbolInstance",
-      "id": "48B9C28D-5899-4461-BCC0-CE25A967A599"
+      "class": "group",
+      "id": "DC23BD84-8D6D-44E4-BC22-8D9C52F9221E"
     }
   ],
   "name": "Generatore non parole / Gioco",
